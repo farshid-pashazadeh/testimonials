@@ -187,7 +187,7 @@ body {
     -webkit-line-clamp: 3;
     overflow: hidden;
 }
-
+/* add webkit-box */
 .desc {
     display: -webkit-box;
     -webkit-box-orient: vertical;
